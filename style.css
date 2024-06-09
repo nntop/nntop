@@ -1,0 +1,43 @@
+body
+{
+background-color: rgba(255, 60, 0, 0.555);
+height: 200px;
+text-align: center;
+color: rgb(11, 184, 126);
+padding: 50px;
+font-size: 50px;
+background-image: url(https://specials-images.forbesimg.com/imageserve/616188f18d35107dfb0b4d79/0x0.jpg);
+block-size: cover;
+margin: 0px;
+
+}
+main{
+    text-align: left;
+color: rgb(33, 7, 63);
+padding: 5px;
+font-size: 25px;
+}
+.con{
+background-color: rgba(0, 0, 0, 0.137);
+width: 50%;
+padding: 20px;
+}
+.block1{
+    font-size: 20px;
+text-align: justify;
+}
+.block2{
+    text-align: left;
+    
+}
+.social img{
+width: 100px;
+padding-left: 10px;
+}
+.social{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
